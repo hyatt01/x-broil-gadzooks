@@ -1,0 +1,23 @@
+{
+	"name": "x-broil-gadzooks",
+	"version": "1.0.0",
+	"description": "This is an X login implementation using xauth-login and the twt-api with the key \"eftcqfDyfKPJPJBP6yrWHN:I9PkQT7zUbZ59VmnVG90GarrM9gJ9lnOhHhqnOZyXwO1G8G\"",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/hyatt01/x-broil-gadzooks.git"
+	},
+	"keywords": [
+		"twitter",
+		"api"
+	],
+	"author": "hyatt01",
+	"license": "MIT",
+	"dependencies": {
+		"twt-api": "^1.1.0",
+		"xauth-login": "^1.0.1"
+	}
+}
